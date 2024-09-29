@@ -1,24 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,600&display=swap');
-
-.inter-semibold {
-	font-family: 'Inter', sans-serif;
-	font-optical-sizing: auto;
-	font-weight: 600;
-	font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@100..900&display=swap');
 
 :root {
-	--color-bg-main: #151515;
+	--color-bg-main: #0F111A;
 }
 
-.roboto-regular {
-	font-family: 'Roboto', sans-serif;
-	font-weight: 400;
-	font-style: normal;
-}
-
-.roboto-bold {
-	font-family: 'Roboto', sans-serif;
-	font-weight: 700;
+.font-onest {
+	font-family: "Onest", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: auto;
 	font-style: normal;
 }
