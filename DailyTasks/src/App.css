@@ -1,0 +1,7 @@
+@import './styles/root.css';
+@import './styles/tailwindcss.css';
+
+body {
+	background-color: var(--color-bg-main);
+	overflow-x: hidden;
+}
