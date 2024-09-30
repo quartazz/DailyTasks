@@ -7,7 +7,7 @@ import ProfileIcon from '../../assets/img/profile.svg'
 function Header() {
 	return (
 		<>
-			<div className='p-8'>
+			<div className='p-4 w-full'>
 				<div className='justify-between flex'>
 					<div className='gap-3 flex'>
 						<MyButton name='Открыть списком' icon={ListIcon} />

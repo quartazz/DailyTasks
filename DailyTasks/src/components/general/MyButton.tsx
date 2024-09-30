@@ -15,7 +15,7 @@ const theme = createTheme({
 					width: '12rem',
 					borderRadius: '18px',
 					display: 'flex',
-					padding: '0.65rem',
+					padding: '0.5rem',
 					textTransform: 'none',
 				},
 			},
